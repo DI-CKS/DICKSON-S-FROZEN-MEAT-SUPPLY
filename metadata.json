@@ -1,0 +1,6 @@
+{
+  "name": "Dickson's Frozen Meat Supply",
+  "description": "High-converting B2B wholesale website for Dickson's Frozen Meat Supply, premium importer and distributor of frozen chicken, beef, pork, and fish.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
